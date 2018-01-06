@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 337d23873ba15724c8032a31ef18eda8
+timeCreated: 1468936269
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FrogSheetGalaxy_0
+    21300002: FrogSheetGalaxy_1
+    21300004: FrogSheetGalaxy_2
+    21300006: FrogSheetGalaxy_3
+    21300008: FrogSheetGalaxy_4
+    21300010: FrogSheetGalaxy_5
+    21300012: FrogSheetGalaxy_6
+    21300014: FrogSheetGalaxy_7
+    21300016: FrogSheetGalaxy_8
+    21300018: FrogSheetGalaxy_9
+    21300020: FrogSheetGalaxy_10
+    21300022: FrogSheetGalaxy_11
+    21300024: FrogSheetGalaxy_12
+    21300026: FrogSheetGalaxy_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FrogSheetGalaxy_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1707
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 37.5}
+        - {x: 126, y: 45.5}
+        - {x: 106, y: 82.5}
+        - {x: 63, y: 115.5}
+        - {x: 36, y: 122.5}
+        - {x: -34, y: 122.5}
+        - {x: -61, y: 113.5}
+        - {x: -102, y: 82.5}
+        - {x: -116, y: 58.5}
+        - {x: -128, y: 21.5}
+        - {x: -128, y: -31.5}
+        - {x: -126, y: -40.5}
+        - {x: -114, y: -73.5}
+        - {x: -83, y: -108.5}
+        - {x: -48, y: -122.5}
+        - {x: 28, y: -122.5}
+        - {x: 35, y: -121.5}
+        - {x: 63, y: -112.5}
+        - {x: 106, y: -80.5}
+        - {x: 128, y: -44.5}
+    - name: FrogSheetGalaxy_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1707
+        width: 258
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: 45.5}
+        - {x: 102, y: 83.5}
+        - {x: 58, y: 115.5}
+        - {x: 29, y: 122.5}
+        - {x: -42, y: 122.5}
+        - {x: -82, y: 104.5}
+        - {x: -106, y: 81.5}
+        - {x: -127, y: 45.5}
+        - {x: -129, y: 33.5}
+        - {x: -129, y: -30.5}
+        - {x: -128, y: -35.5}
+        - {x: -125, y: -42.5}
+        - {x: -108, y: -81.5}
+        - {x: -52, y: -121.5}
+        - {x: -41, y: -122.5}
+        - {x: 51, y: -122.5}
+        - {x: 89, y: -108.5}
+        - {x: 128, y: -47.5}
+        - {x: 128, y: 11.5}
+    - name: FrogSheetGalaxy_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1670
+        width: 252
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 93.5}
+        - {x: 124, y: 96.5}
+        - {x: 83, y: 121.5}
+        - {x: 18, y: 141.5}
+        - {x: -71, y: 141.5}
+        - {x: -120, y: 71.5}
+        - {x: -97, y: 15.5}
+        - {x: -76, y: -62.5}
+        - {x: -126, y: -86.5}
+        - {x: -126, y: -118.5}
+        - {x: -102, y: -132.5}
+        - {x: -57, y: -141.5}
+        - {x: 25, y: -141.5}
+        - {x: 52, y: -74.5}
+        - {x: 63, y: 29.5}
+        - {x: 126, y: 85.5}
+    - name: FrogSheetGalaxy_3
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1670
+        width: 252
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -41.5}
+        - {x: 106, y: 26.5}
+        - {x: 93, y: 121.5}
+        - {x: 59, y: 141.5}
+        - {x: -30, y: 141.5}
+        - {x: -126, y: 103.5}
+        - {x: -126, y: 86.5}
+        - {x: -60, y: 28.5}
+        - {x: -57, y: -6.5}
+        - {x: -43, y: -88.5}
+        - {x: -21, y: -141.5}
+        - {x: 89, y: -141.5}
+        - {x: 126, y: -121.5}
+        - {x: 126, y: -86.5}
+        - {x: 124, y: -83.5}
+    - name: FrogSheetGalaxy_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1364
+        width: 114
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 105}
+        - {x: -37, y: 88}
+        - {x: -57, y: -14}
+        - {x: -57, y: -96}
+        - {x: -26, y: -105}
+        - {x: 57, y: -105}
+        - {x: 57, y: 46}
+        - {x: 50, y: 105}
+    - name: FrogSheetGalaxy_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1364
+        width: 114
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 105}
+        - {x: -57, y: 105}
+        - {x: -57, y: -105}
+        - {x: -48, y: -105}
+        - {x: -32, y: -102}
+        - {x: -22, y: -91}
+        - {x: -16, y: -102}
+        - {x: -8, y: -105}
+        - {x: 41, y: -105}
+        - {x: 57, y: -99}
+        - {x: 57, y: -17}
+        - {x: 36, y: 82}
+    - name: FrogSheetGalaxy_6
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1404
+        width: 470
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -190, y: 42}
+        - {x: -235, y: 11}
+        - {x: -235, y: -42}
+        - {x: 231, y: -42}
+        - {x: 235, y: -39}
+        - {x: 235, y: 42}
+    - name: FrogSheetGalaxy_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1144
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 47}
+        - {x: -54.5, y: 17}
+        - {x: -54.5, y: -47}
+        - {x: -18.5, y: -47}
+        - {x: 54.5, y: -2}
+        - {x: 54.5, y: 47}
+    - name: FrogSheetGalaxy_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1144
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 47}
+        - {x: -54.5, y: 1}
+        - {x: -10.5, y: -47}
+        - {x: 51.5, y: -47}
+        - {x: 54.5, y: -44}
+        - {x: 54.5, y: 27}
+        - {x: 8.5, y: 47}
+    - name: FrogSheetGalaxy_9
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1103
+        width: 453
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 226.5, y: 44}
+        - {x: 224.5, y: 45}
+        - {x: 130.5, y: 44}
+        - {x: 93.5, y: 78}
+        - {x: 83.5, y: 82}
+        - {x: 64.5, y: 82}
+        - {x: -0.5, y: 42}
+        - {x: -59.5, y: 82}
+        - {x: -84.5, y: 82}
+        - {x: -166.5, y: 30}
+        - {x: -226.5, y: 46}
+        - {x: -226.5, y: 22}
+        - {x: -209.5, y: -14}
+        - {x: -160.5, y: -52}
+        - {x: -127.5, y: -70}
+        - {x: -70.5, y: -82}
+        - {x: 60.5, y: -82}
+        - {x: 118.5, y: -72}
+        - {x: 170.5, y: -58}
+        - {x: 226.5, y: 9}
+    - name: FrogSheetGalaxy_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 456
+        width: 538
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: -263.5}
+        - {x: 177, y: -261.5}
+        - {x: 191, y: -259.5}
+        - {x: 213, y: -255.5}
+        - {x: 231, y: -251.5}
+        - {x: 251, y: -245.5}
+        - {x: 263, y: -238.5}
+        - {x: 269, y: -229.5}
+        - {x: 269, y: -187.5}
+        - {x: 268, y: -183.5}
+        - {x: 266, y: -170.5}
+        - {x: 261, y: -157.5}
+        - {x: 258, y: -146.5}
+        - {x: 254, y: -134.5}
+        - {x: 240, y: -97.5}
+        - {x: 226, y: -63.5}
+        - {x: 211, y: -29.5}
+        - {x: 205, y: -16.5}
+        - {x: 197, y: 0.5}
+        - {x: 174, y: 47.5}
+        - {x: 164, y: 66.5}
+        - {x: 152, y: 88.5}
+        - {x: 136, y: 116.5}
+        - {x: 129, y: 128.5}
+        - {x: 118, y: 146.5}
+        - {x: 111, y: 157.5}
+        - {x: 91, y: 187.5}
+        - {x: 83, y: 197.5}
+        - {x: 75, y: 208.5}
+        - {x: 63, y: 223.5}
+        - {x: 47, y: 242.5}
+        - {x: 27, y: 261.5}
+        - {x: 12, y: 269.5}
+        - {x: -13, y: 269.5}
+        - {x: -21, y: 264.5}
+        - {x: -32, y: 256.5}
+        - {x: -47, y: 242.5}
+        - {x: -57, y: 231.5}
+        - {x: -75, y: 209.5}
+        - {x: -93, y: 184.5}
+        - {x: -111, y: 157.5}
+        - {x: -126, y: 133.5}
+        - {x: -136, y: 116.5}
+        - {x: -152, y: 88.5}
+        - {x: -164, y: 66.5}
+        - {x: -174, y: 47.5}
+        - {x: -197, y: 0.5}
+        - {x: -197, y: -1.5}
+        - {x: -211, y: -29.5}
+        - {x: -223, y: -56.5}
+        - {x: -236, y: -87.5}
+        - {x: -249, y: -121.5}
+        - {x: -255, y: -134.5}
+        - {x: -267, y: -179.5}
+        - {x: -269, y: -188.5}
+        - {x: -269, y: -229.5}
+        - {x: -267, y: -233.5}
+        - {x: -257, y: -241.5}
+        - {x: -243, y: -248.5}
+        - {x: -219, y: -255.5}
+        - {x: -208, y: -257.5}
+        - {x: -169, y: -262.5}
+        - {x: -151, y: -264.5}
+        - {x: -140, y: -265.5}
+        - {x: -113, y: -267.5}
+        - {x: -95, y: -268.5}
+        - {x: -70, y: -269.5}
+        - {x: 70, y: -269.5}
+        - {x: 95, y: -268.5}
+        - {x: 113, y: -267.5}
+        - {x: 140, y: -265.5}
+    - name: FrogSheetGalaxy_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 76
+        width: 286
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -392.5}
+        - {x: 141, y: -382.5}
+        - {x: 143, y: -375.5}
+        - {x: 143, y: -336.5}
+        - {x: 140, y: -312.5}
+        - {x: 136, y: -277.5}
+        - {x: 134, y: -265.5}
+        - {x: 116, y: -170.5}
+        - {x: 108, y: -126.5}
+        - {x: 93, y: -39.5}
+        - {x: 85, y: 17.5}
+        - {x: 80, y: 73.5}
+        - {x: 79, y: 104.5}
+        - {x: 80, y: 105.5}
+        - {x: 81, y: 116.5}
+        - {x: 91, y: 155.5}
+        - {x: 94, y: 181.5}
+        - {x: 97, y: 203.5}
+        - {x: 95, y: 235.5}
+        - {x: 93, y: 250.5}
+        - {x: 88, y: 282.5}
+        - {x: 79, y: 317.5}
+        - {x: 75, y: 329.5}
+        - {x: 70, y: 340.5}
+        - {x: 55, y: 369.5}
+        - {x: 43, y: 386.5}
+        - {x: 23, y: 408.5}
+        - {x: 7, y: 419.5}
+        - {x: -7, y: 419.5}
+        - {x: -16, y: 414.5}
+        - {x: -25, y: 407.5}
+        - {x: -45, y: 386.5}
+        - {x: -63, y: 359.5}
+        - {x: -78, y: 329.5}
+        - {x: -87, y: 296.5}
+        - {x: -94, y: 256.5}
+        - {x: -98, y: 235.5}
+        - {x: -98, y: 202.5}
+        - {x: -95, y: 173.5}
+        - {x: -89, y: 137.5}
+        - {x: -83, y: 116.5}
+        - {x: -82, y: 105.5}
+        - {x: -81, y: 74.5}
+        - {x: -82, y: 73.5}
+        - {x: -84, y: 45.5}
+        - {x: -87, y: 17.5}
+        - {x: -102, y: -81.5}
+        - {x: -128, y: -225.5}
+        - {x: -133, y: -248.5}
+        - {x: -138, y: -284.5}
+        - {x: -143, y: -318.5}
+        - {x: -143, y: -378.5}
+        - {x: -141, y: -382.5}
+        - {x: -127, y: -389.5}
+        - {x: -109, y: -396.5}
+        - {x: -80, y: -406.5}
+        - {x: -43, y: -414.5}
+        - {x: -23, y: -418.5}
+        - {x: -17, y: -419.5}
+        - {x: 17, y: -419.5}
+        - {x: 37, y: -416.5}
+        - {x: 59, y: -411.5}
+        - {x: 99, y: -399.5}
+    - name: FrogSheetGalaxy_12
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 640
+        width: 602
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 235, y: -145}
+        - {x: 243, y: -141}
+        - {x: 252, y: -135}
+        - {x: 263, y: -125}
+        - {x: 270, y: -118}
+        - {x: 276, y: -111}
+        - {x: 280, y: -106}
+        - {x: 286, y: -98}
+        - {x: 296, y: -76}
+        - {x: 299, y: -67}
+        - {x: 301, y: -59}
+        - {x: 301, y: 59}
+        - {x: 299, y: 67}
+        - {x: 295, y: 79}
+        - {x: 286, y: 98}
+        - {x: 284, y: 100}
+        - {x: 280, y: 107}
+        - {x: 276, y: 111}
+        - {x: 263, y: 125}
+        - {x: 256, y: 131}
+        - {x: 251, y: 135}
+        - {x: 243, y: 141}
+        - {x: 233, y: 146}
+        - {x: 224, y: 150}
+        - {x: 218, y: 152}
+        - {x: 208, y: 155}
+        - {x: 204, y: 156}
+        - {x: -204, y: 156}
+        - {x: -212, y: 154}
+        - {x: -224, y: 150}
+        - {x: -233, y: 146}
+        - {x: -243, y: 141}
+        - {x: -252, y: 135}
+        - {x: -263, y: 125}
+        - {x: -270, y: 118}
+        - {x: -276, y: 111}
+        - {x: -280, y: 106}
+        - {x: -286, y: 98}
+        - {x: -295, y: 79}
+        - {x: -297, y: 73}
+        - {x: -300, y: 63}
+        - {x: -301, y: 59}
+        - {x: -301, y: -59}
+        - {x: -299, y: -67}
+        - {x: -295, y: -79}
+        - {x: -286, y: -98}
+        - {x: -284, y: -100}
+        - {x: -280, y: -107}
+        - {x: -276, y: -111}
+        - {x: -263, y: -125}
+        - {x: -256, y: -131}
+        - {x: -251, y: -135}
+        - {x: -242, y: -141}
+        - {x: -235, y: -145}
+        - {x: -224, y: -150}
+        - {x: -209, y: -155}
+        - {x: -204, y: -156}
+        - {x: 205, y: -156}
+        - {x: 210, y: -155}
+        - {x: 216, y: -153}
+        - {x: 224, y: -150}
+    - name: FrogSheetGalaxy_13
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 259
+        width: 504
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 59}
+        - {x: -4, y: 59}
+        - {x: -81, y: 56}
+        - {x: -236, y: 34}
+        - {x: -252, y: 9}
+        - {x: -252, y: -36}
+        - {x: -214, y: -59}
+        - {x: -166, y: -59}
+        - {x: -9, y: -45}
+        - {x: 178, y: -57}
+        - {x: 185, y: -59}
+        - {x: 202, y: -59}
+        - {x: 252, y: -20}
+        - {x: 252, y: -4}
+        - {x: 230, y: 31}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

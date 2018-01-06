@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 384e3875406bf634094eb99a9775e1cb
+timeCreated: 1464528896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FrogSheet_0
+    21300002: FrogSheet_1
+    21300004: FrogSheet_2
+    21300006: FrogSheet_3
+    21300008: FrogSheet_4
+    21300010: FrogSheet_5
+    21300012: FrogSheet_6
+    21300014: FrogSheet_7
+    21300016: FrogSheet_8
+    21300018: FrogSheet_9
+    21300020: FrogSheet_10
+    21300022: FrogSheet_11
+    21300024: FrogSheet_12
+    21300026: FrogSheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FrogSheet_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1707
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 37.5}
+        - {x: 126, y: 45.5}
+        - {x: 106, y: 82.5}
+        - {x: 63, y: 115.5}
+        - {x: 36, y: 122.5}
+        - {x: -34, y: 122.5}
+        - {x: -61, y: 113.5}
+        - {x: -102, y: 82.5}
+        - {x: -116, y: 58.5}
+        - {x: -128, y: 21.5}
+        - {x: -128, y: -31.5}
+        - {x: -126, y: -40.5}
+        - {x: -114, y: -73.5}
+        - {x: -83, y: -108.5}
+        - {x: -48, y: -122.5}
+        - {x: 28, y: -122.5}
+        - {x: 35, y: -121.5}
+        - {x: 63, y: -112.5}
+        - {x: 106, y: -80.5}
+        - {x: 128, y: -44.5}
+    - name: FrogSheet_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1707
+        width: 255
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.5, y: 21.5}
+        - {x: 120.5, y: 44.5}
+        - {x: 114.5, y: 57.5}
+        - {x: 102.5, y: 82.5}
+        - {x: 61.5, y: 121.5}
+        - {x: 47.5, y: 122.5}
+        - {x: -50.5, y: 122.5}
+        - {x: -80.5, y: 104.5}
+        - {x: -104.5, y: 81.5}
+        - {x: -125.5, y: 45.5}
+        - {x: -127.5, y: 33.5}
+        - {x: -127.5, y: -30.5}
+        - {x: -126.5, y: -35.5}
+        - {x: -123.5, y: -42.5}
+        - {x: -106.5, y: -81.5}
+        - {x: -50.5, y: -121.5}
+        - {x: -38.5, y: -122.5}
+        - {x: 45.5, y: -122.5}
+        - {x: 76.5, y: -111.5}
+        - {x: 94.5, y: -99.5}
+        - {x: 127.5, y: -54.5}
+    - name: FrogSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1670
+        width: 252
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 84}
+        - {x: 126, y: 99}
+        - {x: 38, y: 140}
+        - {x: 2, y: 142}
+        - {x: -45, y: 142}
+        - {x: -71, y: 133}
+        - {x: -99, y: 101}
+        - {x: -102, y: 13}
+        - {x: -76, y: -64}
+        - {x: -126, y: -88}
+        - {x: -126, y: -119}
+        - {x: -101, y: -131}
+        - {x: -54, y: -143}
+        - {x: 22, y: -143}
+        - {x: 50, y: -76}
+        - {x: 56, y: -33}
+        - {x: 63, y: 28}
+    - name: FrogSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1670
+        width: 252
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124, y: -85}
+        - {x: 80, y: -43}
+        - {x: 101, y: 26}
+        - {x: 101, y: 68}
+        - {x: 91, y: 119}
+        - {x: 54, y: 142}
+        - {x: -13, y: 142}
+        - {x: -41, y: 136}
+        - {x: -96, y: 113}
+        - {x: -126, y: 98}
+        - {x: -126, y: 83}
+        - {x: -67, y: 23}
+        - {x: -43, y: -90}
+        - {x: -21, y: -143}
+        - {x: 81, y: -143}
+        - {x: 106, y: -133}
+        - {x: 126, y: -119}
+        - {x: 126, y: -89}
+    - name: FrogSheet_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1364
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 106}
+        - {x: -36, y: 87}
+        - {x: -57, y: -17}
+        - {x: -57, y: -97}
+        - {x: -26, y: -106}
+        - {x: 57, y: -106}
+        - {x: 57, y: 106}
+    - name: FrogSheet_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1364
+        width: 114
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 105}
+        - {x: -57, y: 105}
+        - {x: -57, y: -105}
+        - {x: -48, y: -105}
+        - {x: -32, y: -102}
+        - {x: -22, y: -91}
+        - {x: -16, y: -102}
+        - {x: -8, y: -105}
+        - {x: 41, y: -105}
+        - {x: 57, y: -99}
+        - {x: 57, y: -17}
+        - {x: 36, y: 82}
+    - name: FrogSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1404
+        width: 472
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236, y: 1}
+        - {x: -236, y: -11}
+        - {x: -220, y: -42}
+        - {x: 236, y: -42}
+        - {x: 236, y: 21}
+        - {x: 231, y: 42}
+        - {x: -157, y: 42}
+        - {x: -227, y: 10}
+    - name: FrogSheet_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1144
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 47}
+        - {x: -50, y: 32}
+        - {x: -55, y: -5}
+        - {x: -55, y: -45}
+        - {x: -49, y: -47}
+        - {x: -16, y: -47}
+        - {x: 55, y: 0}
+        - {x: 55, y: 47}
+    - name: FrogSheet_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1144
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 48}
+        - {x: -54.5, y: 44}
+        - {x: -54.5, y: 0}
+        - {x: 21.5, y: -48}
+        - {x: 54.5, y: -48}
+        - {x: 54.5, y: 3}
+        - {x: 21.5, y: 48}
+    - name: FrogSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1103
+        width: 453
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 226.5, y: 43.5}
+        - {x: 224.5, y: 44.5}
+        - {x: 164.5, y: 21.5}
+        - {x: 85.5, y: 82.5}
+        - {x: 71.5, y: 82.5}
+        - {x: -0.5, y: 43.5}
+        - {x: -69.5, y: 82.5}
+        - {x: -82.5, y: 82.5}
+        - {x: -84.5, y: 81.5}
+        - {x: -183.5, y: 17.5}
+        - {x: -226.5, y: 43.5}
+        - {x: -226.5, y: 21.5}
+        - {x: -209.5, y: -14.5}
+        - {x: -160.5, y: -52.5}
+        - {x: -127.5, y: -70.5}
+        - {x: -70.5, y: -82.5}
+        - {x: 60.5, y: -82.5}
+        - {x: 118.5, y: -72.5}
+        - {x: 170.5, y: -58.5}
+        - {x: 226.5, y: 8.5}
+    - name: FrogSheet_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 458
+        width: 540
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: -261}
+        - {x: 214, y: -257}
+        - {x: 232, y: -253}
+        - {x: 252, y: -247}
+        - {x: 264, y: -240}
+        - {x: 270, y: -231}
+        - {x: 270, y: -189}
+        - {x: 269, y: -185}
+        - {x: 267, y: -172}
+        - {x: 262, y: -159}
+        - {x: 259, y: -148}
+        - {x: 255, y: -136}
+        - {x: 241, y: -99}
+        - {x: 227, y: -65}
+        - {x: 212, y: -31}
+        - {x: 206, y: -18}
+        - {x: 198, y: -1}
+        - {x: 175, y: 46}
+        - {x: 165, y: 65}
+        - {x: 153, y: 87}
+        - {x: 137, y: 115}
+        - {x: 130, y: 127}
+        - {x: 119, y: 145}
+        - {x: 112, y: 156}
+        - {x: 92, y: 186}
+        - {x: 84, y: 196}
+        - {x: 76, y: 207}
+        - {x: 64, y: 222}
+        - {x: 48, y: 241}
+        - {x: 28, y: 260}
+        - {x: 10, y: 269}
+        - {x: -8, y: 269}
+        - {x: -17, y: 265}
+        - {x: -26, y: 259}
+        - {x: -31, y: 255}
+        - {x: -46, y: 241}
+        - {x: -56, y: 230}
+        - {x: -74, y: 208}
+        - {x: -92, y: 183}
+        - {x: -110, y: 156}
+        - {x: -125, y: 132}
+        - {x: -135, y: 115}
+        - {x: -151, y: 87}
+        - {x: -163, y: 65}
+        - {x: -173, y: 46}
+        - {x: -196, y: -1}
+        - {x: -196, y: -3}
+        - {x: -210, y: -31}
+        - {x: -222, y: -58}
+        - {x: -235, y: -89}
+        - {x: -248, y: -123}
+        - {x: -253, y: -137}
+        - {x: -257, y: -149}
+        - {x: -260, y: -159}
+        - {x: -265, y: -177}
+        - {x: -268, y: -190}
+        - {x: -270, y: -202}
+        - {x: -270, y: -226}
+        - {x: -266, y: -235}
+        - {x: -256, y: -243}
+        - {x: -242, y: -250}
+        - {x: -218, y: -257}
+        - {x: -207, y: -259}
+        - {x: -168, y: -264}
+        - {x: -150, y: -266}
+        - {x: -139, y: -267}
+        - {x: -126, y: -268}
+        - {x: -112, y: -269}
+        - {x: 114, y: -269}
+        - {x: 141, y: -267}
+        - {x: 161, y: -265}
+    - name: FrogSheet_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 76
+        width: 284
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122, y: -392.5}
+        - {x: 142, y: -381.5}
+        - {x: 142, y: -319.5}
+        - {x: 140, y: -304.5}
+        - {x: 136, y: -278.5}
+        - {x: 117, y: -170.5}
+        - {x: 109, y: -126.5}
+        - {x: 94, y: -39.5}
+        - {x: 86, y: 17.5}
+        - {x: 81, y: 73.5}
+        - {x: 80, y: 104.5}
+        - {x: 81, y: 105.5}
+        - {x: 82, y: 116.5}
+        - {x: 92, y: 155.5}
+        - {x: 95, y: 181.5}
+        - {x: 98, y: 203.5}
+        - {x: 96, y: 235.5}
+        - {x: 94, y: 250.5}
+        - {x: 89, y: 282.5}
+        - {x: 80, y: 317.5}
+        - {x: 76, y: 329.5}
+        - {x: 71, y: 340.5}
+        - {x: 56, y: 369.5}
+        - {x: 44, y: 386.5}
+        - {x: 24, y: 407.5}
+        - {x: 15, y: 414.5}
+        - {x: 7, y: 419.5}
+        - {x: -6, y: 419.5}
+        - {x: -15, y: 414.5}
+        - {x: -24, y: 407.5}
+        - {x: -44, y: 386.5}
+        - {x: -62, y: 359.5}
+        - {x: -77, y: 329.5}
+        - {x: -86, y: 296.5}
+        - {x: -93, y: 256.5}
+        - {x: -97, y: 235.5}
+        - {x: -97, y: 202.5}
+        - {x: -94, y: 173.5}
+        - {x: -88, y: 137.5}
+        - {x: -82, y: 116.5}
+        - {x: -81, y: 105.5}
+        - {x: -80, y: 74.5}
+        - {x: -81, y: 73.5}
+        - {x: -83, y: 45.5}
+        - {x: -86, y: 17.5}
+        - {x: -101, y: -81.5}
+        - {x: -127, y: -225.5}
+        - {x: -132, y: -248.5}
+        - {x: -137, y: -284.5}
+        - {x: -142, y: -318.5}
+        - {x: -142, y: -378.5}
+        - {x: -140, y: -382.5}
+        - {x: -126, y: -389.5}
+        - {x: -108, y: -396.5}
+        - {x: -79, y: -406.5}
+        - {x: -42, y: -414.5}
+        - {x: -22, y: -418.5}
+        - {x: -16, y: -419.5}
+        - {x: 18, y: -419.5}
+        - {x: 38, y: -416.5}
+        - {x: 60, y: -411.5}
+        - {x: 100, y: -399.5}
+    - name: FrogSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 640
+        width: 608
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 235, y: -145}
+        - {x: 243, y: -141}
+        - {x: 252, y: -135}
+        - {x: 263, y: -125}
+        - {x: 270, y: -118}
+        - {x: 276, y: -111}
+        - {x: 280, y: -106}
+        - {x: 286, y: -98}
+        - {x: 296, y: -76}
+        - {x: 299, y: -67}
+        - {x: 302, y: -54}
+        - {x: 303, y: -48}
+        - {x: 303, y: 48}
+        - {x: 302, y: 54}
+        - {x: 301, y: 59}
+        - {x: 299, y: 67}
+        - {x: 295, y: 79}
+        - {x: 286, y: 98}
+        - {x: 284, y: 100}
+        - {x: 280, y: 107}
+        - {x: 276, y: 111}
+        - {x: 263, y: 125}
+        - {x: 256, y: 131}
+        - {x: 251, y: 135}
+        - {x: 243, y: 141}
+        - {x: 233, y: 146}
+        - {x: 224, y: 150}
+        - {x: 218, y: 152}
+        - {x: 208, y: 155}
+        - {x: 204, y: 156}
+        - {x: -204, y: 156}
+        - {x: -212, y: 154}
+        - {x: -224, y: 150}
+        - {x: -233, y: 146}
+        - {x: -243, y: 141}
+        - {x: -252, y: 135}
+        - {x: -263, y: 125}
+        - {x: -270, y: 118}
+        - {x: -276, y: 111}
+        - {x: -280, y: 106}
+        - {x: -286, y: 98}
+        - {x: -295, y: 79}
+        - {x: -297, y: 73}
+        - {x: -300, y: 63}
+        - {x: -302, y: 54}
+        - {x: -303, y: 48}
+        - {x: -303, y: -48}
+        - {x: -302, y: -54}
+        - {x: -301, y: -59}
+        - {x: -298, y: -70}
+        - {x: -295, y: -79}
+        - {x: -286, y: -98}
+        - {x: -284, y: -100}
+        - {x: -280, y: -107}
+        - {x: -264, y: -125}
+        - {x: -256, y: -131}
+        - {x: -251, y: -135}
+        - {x: -242, y: -141}
+        - {x: -235, y: -145}
+        - {x: -221, y: -151}
+        - {x: -216, y: -153}
+        - {x: -205, y: -156}
+        - {x: 205, y: -156}
+        - {x: 210, y: -155}
+        - {x: 216, y: -153}
+        - {x: 224, y: -150}
+    - name: FrogSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 259
+        width: 505
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.5, y: 59}
+        - {x: -89.5, y: 59}
+        - {x: -227.5, y: 39}
+        - {x: -252.5, y: 9}
+        - {x: -252.5, y: -8}
+        - {x: -242.5, y: -28}
+        - {x: -211.5, y: -59}
+        - {x: -164.5, y: -59}
+        - {x: -64.5, y: -7}
+        - {x: -8.5, y: -45}
+        - {x: 74.5, y: -8}
+        - {x: 178.5, y: -57}
+        - {x: 185.5, y: -59}
+        - {x: 202.5, y: -59}
+        - {x: 252.5, y: -20}
+        - {x: 252.5, y: -4}
+        - {x: 230.5, y: 31}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
